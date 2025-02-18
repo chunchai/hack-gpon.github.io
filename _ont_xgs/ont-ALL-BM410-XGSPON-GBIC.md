@@ -12,7 +12,7 @@ parent: ALLNET
 | Vendor/Brand     | ALLNET                                                                            |
 | Model            | ALL-BM410-XGSPON-GBIC                                                             |
 | ODM              | CIG                                                                               |
-| Chipset          | Cortina CA8271A                                                                   |
+| Chipset          | Cortina CA8271S                                                                   |
 | Flash            | 128 MB (MX35LF1GE4                                                                |
 | RAM              | 128 MB                                                                            |
 | CPU              | Taroko V0.2 (MIPS)                                                                |
